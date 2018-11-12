@@ -37,11 +37,13 @@ The the waypoint mark button stores a waypoint using the last trackpoint arrived
 ## Configuration
 Configuration page contains different sections:
 
-* user settings, with the user home coordinates;
+* user settings, with the user main information;
+
+* map settings, with the home point coordinates, the default zoom level and the autozoom configuration;
 
 * live tracking settings, with the configuration of the IBM IoT Service or the MQTT over WebSocket service;
 
 * debugging setting, with possibility to start and stop logging system, clear and save to file log messages.
 
 
-More details about project development [here](https://bitbucket.org/michelebonacina/motomapp/wiki/Home).
+More details about project development and app downloads [here](https://bitbucket.org/michelebonacina/motomapp/wiki/Home).
