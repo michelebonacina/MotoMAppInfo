@@ -13,6 +13,6 @@ The cockpit page contains information about the trip.
 It's still in development and the data on it are intended for debug purpose.
 
 #### Map Page
-
+There's a biker icon in the center of the map; it's your current position. While moving, the top view visualition rotate and scroll around the biker orienting the map in the same direction of the real world.
 
 More details about project development [here](https://bitbucket.org/michelebonacina/motomapp/wiki/Home).
