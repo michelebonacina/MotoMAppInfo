@@ -10,6 +10,8 @@ Not all functionality are completed.
 
 Use at your own risk.
 
+More details about project development and app downloads [here](https://bitbucket.org/michelebonacina/motomapp/wiki/Home).
+
 ## Cockpit Page
 Actually Cockpit page is intended for testing.
 
